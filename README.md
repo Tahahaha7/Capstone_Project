@@ -9,9 +9,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/Tahahaha7/Capstone_Project/blob/master/London.png" />
+  <img src="https://github.com/Tahahaha7/Capstone_Project/blob/master/Nairobi.png" />
 </p>
-<!--<img align="center" src="https://github.com/Tahahaha7/Capstone_Project/blob/master/London.png">-->
+<!--<img align="center" src="https://github.com/Tahahaha7/Capstone_Project/blob/master/Nairobi.png">-->
 <!--![Github](https://github.com/Tahahaha7/Capstone_Project/blob/master/London.png)-->
 
 # Capstone_Project
