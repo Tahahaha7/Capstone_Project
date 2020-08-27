@@ -9,12 +9,11 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/Tahahaha7/Capstone_Project/blob/master/Nairobi.png" />
+  <img src="https://github.com/Tahahaha7/Capstone_Project/blob/master/Nairobi.jpg" />
 </p>
+
 <!--<img align="center" src="https://github.com/Tahahaha7/Capstone_Project/blob/master/Nairobi.png">-->
 <!--![Github](https://github.com/Tahahaha7/Capstone_Project/blob/master/London.png)-->
 
-# Capstone_Project
-Source Code for potential capstone project ideas
 
 ```Theme: Impact of Infrastructure Changes on Traffic Flow```
