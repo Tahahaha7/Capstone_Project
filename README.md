@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/Tahahaha7/Capstone_Project/blob/master/London.jpg" />
+  <img src="https://raw.githubusercontent.com/Tahahaha7/Capstone_Project/master/London%20Road%20Network.png" />
 </p>
 
 <!--<img align="center" src="https://raw.githubusercontent.com/Tahahaha7/Capstone_Project/master/London%20Road%20Network.png">-->
